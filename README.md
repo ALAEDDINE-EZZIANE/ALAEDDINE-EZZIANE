@@ -15,7 +15,7 @@ Programming since the age of **13**. Welcome to my GitHub profile!
 <li>🎓 I'm a Computer Science student at the University of Ain Temouchent, Algeria.</li>
 <li>💻 I'm currently building projects with <strong>C++, Flutter, Firebase, and Python</strong>.</li>
 <li>🧠 Currently learning <strong>Data Structures & Algorithms</strong>, <strong>Git & GitHub</strong>, and improving my software development skills.</li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/YOUR_USERNAME">GitHub</a>.</li>
+<li>👨‍💻 Most of my projects are available on <a href="https://github.com/ALAEDDINE-EZZIANE">GitHub</a>.</li>
 <li>🚀 Interested in <strong>Software Development</strong>, <strong>Artificial Intelligence</strong>, <strong>Computer Systems</strong>, and <strong>Mobile Development</strong>.</li>
 <li>🎯 My goal is to pursue a Ph.D. in Artificial Intelligence and Big Data, and build software that solves real-world problems.</li>
 <li>⚡ Fun fact: I started programming when I was 13 years old.</li>
