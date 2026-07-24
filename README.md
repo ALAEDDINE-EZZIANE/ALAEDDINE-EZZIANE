@@ -10,10 +10,10 @@ Programming since the age of **13**. Welcome to my GitHub profile!
 <table>
   <tr>
     <td align="center" width="200">
-      <a href="https://github.com/YOUR_USERNAME/pacman-cpp-terminal">
-        <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="60" />
+      <a href="https://github.com/YOUR_USERNAME">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="60" />
         <br />
-        Pac-Man (C++)
+        Windows Systems
       </a>
     </td>
     <td align="center" width="200">
