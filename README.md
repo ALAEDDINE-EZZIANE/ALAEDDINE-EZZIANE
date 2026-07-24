@@ -1,95 +1,76 @@
-<h1 align="center">
-  Hi there! 👋 I'm Alae Eddine Ezziane
-</h1>
+<h2>
+  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />
+  Hi, welcome!
+</h2>
 
-<h3 align="center">
-Computer Science Student 🇩🇿 | Future Software Engineer
+I'm **Alae Eddine Ezziane**, a **Computer Science student** from **Algeria** 🇩🇿.
+I'm passionate about **Software Development**, **Artificial Intelligence**, **Mobile Development**, and **Computer Systems**.
+Programming since the age of **13**. Welcome to my GitHub profile!
+
+<table>
+  <tr>
+    <td align="center" width="200">
+      <a href="https://github.com/YOUR_USERNAME/pacman-cpp-terminal">
+        <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="60" />
+        <br />
+        Pac-Man (C++)
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://github.com/YOUR_USERNAME/flutter-firebase-app">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="60" />
+        <br />
+        Flutter App
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://github.com/YOUR_USERNAME/personal-website">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" />
+        <br />
+        Personal Website
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <a href="https://github.com/YOUR_USERNAME">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" />
+        <br />
+        C++
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://github.com/YOUR_USERNAME">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" />
+        <br />
+        Python
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://github.com/YOUR_USERNAME">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="60" />
+        <br />
+        Firebase
+      </a>
+    </td>
+  </tr>
+</table>
+
+<sub>
+🔥 Computer Science Student • C/C++ • Flutter • Firebase • Python • HTML • CSS • Always learning and building new projects.
+</sub>
+
+<h3>
+  <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
+  Current Goals
 </h3>
 
----
+<kbd>2026</kbd>
 
-## 👨‍💻 About Me
+- 🎓 Complete my Bachelor's degree in Computer Science.
+- 🚀 Build useful projects and improve my GitHub portfolio.
+- 📱 Master Flutter & Firebase.
+- 🤖 Learn Artificial Intelligence.
+- 🇮🇹 Pursue a Master's degree in Italy.
 
-🎓 Computer Science student from Algeria.
-
-💻 Passionate about Software Development, Artificial Intelligence, Mobile Development, and Cybersecurity.
-
-🚀 Programming since the age of 13.
-
-📱 Currently building projects using Flutter, Firebase and C++.
-
-🎯 My goal is to pursue a Master's degree in Italy and become a software engineer.
-
----
-
-## 🛠️ Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,python,flutter,firebase,html,css,git,github,vscode,linux" />
-</p>
-
----
-
-## 📂 Projects
-
-- 🎮 Pac-Man Game (C++)
-- 📱 Flutter + Firebase Mobile Application
-- 🌐 Personal Website
-
-More projects coming soon...
-
----
-
-## 📚 Currently Learning
-
-- Data Structures & Algorithms
-- Git & GitHub
-- Flutter
-- Firebase
-- Linux
-- Problem Solving
-
----
-
-## 🌍 Connect with Me
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-LinkedIn
-</a>
-
-```
-
----
-
-## وبعد سنة سيكون أجمل بكثير
-
-يمكنك إضافة إحصائيات GitHub مثل:
-
-```md
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact"/>
-</p>
-```
-
-وسيظهر عدد الـ commits واللغات التي تستعملها.
-
----
-
-### أريد أن أصنع لك README احترافيًا جدًا
-
-أستطيع أن أصنع لك واحدًا يشبه ملفات كبار المطورين، مع:
-- ✨ تأثيرات متحركة.
-- 🌍 علم الجزائر.
-- 🐍 Snake يأكل الـ commits.
-- 📊 GitHub Stats.
-- 🔥 Streak Stats.
-- 💻 أيقونات جميلة للتقنيات.
-- 📱 قسم المشاريع مع صور.
-- 🎓 قسم الدراسة والجامعة.
-- 🚀 تصميم احترافي جدًا دون مبالغة.
-
-وسيكون مناسبًا لطالب جامعي يريد التقديم لاحقًا للماستر في إيطاليا.
+<!-- Thanks for visiting my profile! -->.
