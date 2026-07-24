@@ -71,6 +71,6 @@ Programming since the age of **13**. Welcome to my GitHub profile!
 - 🚀 Build useful projects and improve my GitHub portfolio.
 - 📱 Master Flutter & Firebase.
 - 🤖 Learn Artificial Intelligence.
-- 🇮🇹 Pursue a Master's degree in Italy.
+- ✒️ Futur BIG-data & IA.
 
 <!-- Thanks for visiting my profile! -->.
