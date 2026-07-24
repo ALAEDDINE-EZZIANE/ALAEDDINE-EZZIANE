@@ -24,7 +24,7 @@ Programming since the age of **13**. Welcome to my GitHub profile!
 
 
 
-<table>
+<table align="center" >
   <tr>
     <td align="center" width="200">
       <a href="https://github.com/YOUR_USERNAME">
