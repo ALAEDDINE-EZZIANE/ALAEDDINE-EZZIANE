@@ -27,7 +27,7 @@ Programming since the age of **13**. Welcome to my GitHub profile!
       <a href="https://github.com/YOUR_USERNAME/personal-website">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" />
         <br />
-        Personal Website
+        Web Dev
       </a>
     </td>
   </tr>
