@@ -18,7 +18,7 @@ Programming since the age of **13**. Welcome to my GitHub profile!
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/ALAEDDINE-EZZIANE">GitHub</a>.</li>
 <li>🚀 Interested in <strong>Software Development</strong>, <strong>Artificial Intelligence</strong>, <strong>Computer Systems</strong>, and <strong>Mobile Development</strong>.</li>
 <li>🎯 My goal is to pursue a Ph.D. in Artificial Intelligence and Big Data, and build software that solves real-world problems.</li>
-<li>⚡ Fun fact: I started programming when I was 13 years old.</li>
+<li>⚡ Fun fact: I started programming when I was 13 years old because I was fascinated by how computers actually work—from binary (0s and 1s) to operating systems, hardware, and the software that powers everything.</li>
 </ul>
 
 
